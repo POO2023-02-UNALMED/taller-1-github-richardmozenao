@@ -1,0 +1,1 @@
+las carpetas vacias no cuentan como cambio para un pull
