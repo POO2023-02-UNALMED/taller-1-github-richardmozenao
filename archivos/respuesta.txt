@@ -1,0 +1,1 @@
+Hubo un unico inconveniente, cuando no habia creado el archivo respuesta.txt github desktop no permitia hacer el push commit.
