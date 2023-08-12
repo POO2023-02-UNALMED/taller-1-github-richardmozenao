@@ -1,1 +1,0 @@
-Cuando se crea una carpeta vacia, esta no se puede enviar como push commit. No se detecta como un cambio que se pueda enviar.
