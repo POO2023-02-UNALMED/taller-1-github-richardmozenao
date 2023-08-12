@@ -1,1 +1,0 @@
-Una carpeta vacia no se puede enviar como push commit.
