@@ -1,0 +1,1 @@
+Cuando se crea una carpeta vacia, no se puede hacer push commit. Una vez se ha creado un archivo en esa carpeta, estara disponible la opcion de push commit normalmente.
