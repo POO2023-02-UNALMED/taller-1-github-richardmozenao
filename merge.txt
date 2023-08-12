@@ -1,1 +1,4 @@
 Mi nombre es Richard Muñoz Henao, tengo 18 años y quiero aprender programacion orientada a objetos para mis futuros proyectos.
+
+Cuando se crea una carpeta vacia, no se puede hacer push commit. Una vez se ha creado un archivo en esa carpeta, estara disponible la opcion de push commit normalmente.
+
